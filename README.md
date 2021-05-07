@@ -1,3 +1,11 @@
+Project is a simple front-end UI using React and Web3 to connect to Lottery smart contract in the Ethereum Rinkby test work. 
+Simple buttons to enter lottery, pick winner etc. 
+
+Lottery smart contract test and deployment:
+
+https://github.com/zijie92/lottery_eth
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
